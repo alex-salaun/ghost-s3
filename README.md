@@ -77,3 +77,5 @@ Restart app then test upload new image in blog post. Image will be store at newl
 ## License
 
 Read LICENSE
+
+See (https://www.npmjs.com/package/ghost-s3-storage)[https://www.npmjs.com/package/ghost-s3-storage] for examples.
